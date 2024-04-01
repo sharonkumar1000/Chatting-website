@@ -1,0 +1,46 @@
+nav{
+    text-align: center;
+}
+.navimg{
+    height:100px;
+    width:100px;
+}
+/* .main{
+    display:flex;
+    justify-content: center;
+} */
+.container{
+    max-width: 960px;
+    height:60vh;
+    background-color: aqua;
+    margin: auto; 
+    overflow-y: auto;
+}
+.message{
+    background-color: grey;
+    color:white;
+    padding: 5px;
+    margin: 5px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:30%;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+#send-container{
+    text-align: center;
+}
+#messageImp{
+    /* max-width: 960px; */
+    width:75%;
+    height:25px;
+}
+.btn{
+
+}
